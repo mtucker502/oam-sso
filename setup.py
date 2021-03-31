@@ -11,7 +11,7 @@ requires = [
     'requests==2.22.0',
     'soupsieve==1.9.2',
     'urllib3==1.25.3',
-    'lxml==4.5.0'
+    'lxml==4.6.3'
 ]
 
 setup(
