@@ -10,7 +10,7 @@ requires = [
     'idna==2.8',
     'requests==2.22.0',
     'soupsieve==1.9.2',
-    'urllib3==1.25.3',
+    'urllib3==1.26.5',
     'lxml==4.5.0'
 ]
 
